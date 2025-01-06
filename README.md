@@ -9,7 +9,6 @@ Written Documentation<br><br>
 1. Graphical User Interface (GUI)
 
 Must include:
-
 Mathematical Figures: 1-2 figures with modifiable parameters (e.g., edit boxes).
 
 Interactive Elements: Buttons/menus linked to documentation.
@@ -19,7 +18,6 @@ Images (JPG): Relevant visuals within the interface.<br><br>
 2. Written Documentation
 
 Should include:
-
 Title Page: Faculty, project title, student/teacher names, year.
 
 Contents: Clear navigation.
