@@ -1,14 +1,11 @@
-CAG Project Overview
+Computer Aided Graphics Project in Matlab
 
-Components
-
+Components<br><br>
 Graphical User Interface (GUI)
-
+<br>
 Developed in MATLAB (8 points).
-
-Written Documentation
-
-Delivered as a PDF (2 points).
+<br>
+Written Documentation<br><br>
 
 1. Graphical User Interface (GUI)
 
