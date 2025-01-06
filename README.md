@@ -1,6 +1,6 @@
 Computer Aided Graphics Project in Matlab
 
-Components<br><br>
+
 Graphical User Interface (GUI)
 <br>
 Developed in MATLAB (8 points).
@@ -27,4 +27,4 @@ Conclusion: Summary, evaluation, and suggestions for improvement.<br>
 References: Cited sources (books, articles, links).<br>
 Appendices (Optional): Supplementary visuals and full code.<br>
 
-
+I built my project on the theme of Inverting and Non-Inverting Amplifiers with Op-Amp and their functionality, showing their impact on signals.
