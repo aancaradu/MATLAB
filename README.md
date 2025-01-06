@@ -8,35 +8,23 @@ Developed in MATLAB (8 points).
 Written Documentation<br><br>
 1. Graphical User Interface (GUI)
 
-Must include:<br>
-Mathematical Figures: 1-2 figures with modifiable parameters (e.g., edit boxes).
+Must include:
 
-Interactive Elements: Buttons/menus linked to documentation.
-
+Mathematical Figures: 1-2 figures with modifiable parameters (e.g., edit boxes).<br>
+Interactive Elements: Buttons/menus linked to documentation.<br>
 Images (JPG): Relevant visuals within the interface.<br><br>
 
 2. Written Documentation
 
-Should include:<br>
-Title Page: Faculty, project title, student/teacher names, year.
+Should include:
 
-Contents: Clear navigation.
+Title Page: Faculty, project title, student/teacher names, year.<br>
+Contents: Clear navigation.<br>
+Introduction: Brief MATLAB history and project relevance.<br>
+Theoretical Presentation: Detailed explanation of the project and equations used.<br>
+Results: Numerical analysis, GUI screenshots with explanations, and code snippets.<br>
+Conclusion: Summary, evaluation, and suggestions for improvement.<br>
+References: Cited sources (books, articles, links).<br>
+Appendices (Optional): Supplementary visuals and full code.<br>
 
-Introduction: Brief MATLAB history and project relevance.
-
-Theoretical Presentation: Detailed explanation of the project and equations used.
-
-Results: Numerical analysis, GUI screenshots with explanations, and code snippets.
-
-Conclusion: Summary, evaluation, and suggestions for improvement.
-
-References: Cited sources (books, articles, links).
-
-Appendices (Optional): Supplementary visuals and full code.
-
-Deliverables
-
-MATLAB GUI: Functional interface.
-
-Documentation PDF: Comprehensive report.
 
