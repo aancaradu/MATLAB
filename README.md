@@ -8,7 +8,7 @@ Developed in MATLAB (8 points).
 Written Documentation<br><br>
 1. Graphical User Interface (GUI)
 
-Must include:
+Must include:<br>
 Mathematical Figures: 1-2 figures with modifiable parameters (e.g., edit boxes).
 
 Interactive Elements: Buttons/menus linked to documentation.
@@ -17,7 +17,7 @@ Images (JPG): Relevant visuals within the interface.<br><br>
 
 2. Written Documentation
 
-Should include:
+Should include:<br>
 Title Page: Faculty, project title, student/teacher names, year.
 
 Contents: Clear navigation.
