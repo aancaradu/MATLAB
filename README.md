@@ -57,7 +57,7 @@ Two known limitations:
 
 ## Tools
 
-Developed in MATLAB using its native GUI-building functions (`uicontrol`, `uimenu`) rather than App Designer, with custom callback functions handling gain computation and interactive plotting.
+Developed in MATLAB using its native GUI-building functions (`uicontrol`, `uimenu`).
 
 ## Documentation
 
