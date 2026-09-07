@@ -61,4 +61,4 @@ Developed in MATLAB using its native GUI-building functions (`uicontrol`, `uimen
 
 ## Documentation
 
-Full write-up covering MATLAB and op-amp theory, equations, experimental results, and code: [Radu_Anca_Valentina_Gr_e_2023_Documentation_Matlab_Project.pdf](./Radu_Anca_Valentina_Gr_e_2023_Documentation_Matlab_Project.pdf)
+Full documentation covering MATLAB and op-amp theory, equations, experimental results and code:./Radu_Anca_Valentina_Gr_e_2023_Documentation2_Matlab_Project.pdf
