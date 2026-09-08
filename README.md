@@ -1,4 +1,4 @@
-# Amplifiers with Op-Amp — MATLAB GUI
+# Amplifiers with Op-Amp: MATLAB GUI
 
 Project Author: Radu Anca-Valentina
 Subject: Computer Aided Graphics
